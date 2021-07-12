@@ -1,4 +1,4 @@
-module github.com/argoproj/pkg
+module github.com/vathsalashetty25ibm/pkg
 
 go 1.14
 
